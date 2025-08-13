@@ -1,5 +1,6 @@
+[
 {
-  "SURE: 1-FATİHA": {
+  "SURE" : "1-FATİHA",
     "AYETLER": {
       "1": "Rahmân ve Rahîm olan Allah'ın ismiyle.",
       "2": "Hamd o âlemlerin Rabbi,",
@@ -10,7 +11,8 @@
       "7": "O kendilerine nimet verdiğin mutlu kimselerin yoluna; o gazaba uğramışların ve o sapmışların yoluna değil."
     }
   },
-  "SURE: 2-BAKARA": {
+  {
+  "SURE" : " 2-BAKARA",
     "AYETLER": {
       "1": "(Elif, Lâm, Mîm.)",
       "2": "İşte o kitap, bunda şüphe yok, müttakiler (kötülükten korunacaklar) için hidayettir.",
@@ -300,7 +302,7 @@
       "286": "Allah hiç kimseye gücünün yeteceğinden başka yük yüklemez. Herkesin kazandığı hayır kendisine, yaptığı kötülüğün zararı yine kendisinedir. Ey Rabbimiz, eğer unuttuk ya da yanıldıysak bizi tutup sorguya çekme! Ey Rabbimiz, bize bizden öncekilere yüklediğin gibi ağır yük yükleme! Ey Rabbimiz, bize gücümüzün yetmeyeceği yükü de yükleme! Bağışla bizi, mağfiret et bizi, rahmet et bize! Sensin bizim Mevlamız, kâfir kavimlere karşı yardım et bize."
     }
   },
-  "SURE: 3-ÂL-İ İMRAN": {
+  {  "SURE" : " 3-ÂL-İ İMRAN",
     "AYETLER": {
       "1": "Elif, Lâm Mîm,",
       "2": "Allah, kendisinden başka tanrı olmayan, hayy ve kayyûmdur.",
@@ -502,7 +504,7 @@
       "166-167": "İki topluluğun karşılaştığı günde başınıza gelen musibet de Allah'ın izniyledir. Bu da müminleri belirlemesi ve hem de münafıklık yapanları ayırt etmesi içindir. Ve onlara: \"Geliniz, Allah yolunda savaşınız veya (hiç olmazsa) savunmaya geçiniz.\" denilmişti. Onlar ise: \"Biz savaşmasını (veya savaş olacağını) bilseydik arkanızdan gelirdik.\" demişlerdi. Onlar, o gün, imandan çok küfre yakındılar. kalblerinde olmayanı ağızlarıyla söylüyorlardı. Allah neyi gizlediklerini daha iyi bilendir."
     }
   },
-  "SURE: 4-NİSA": {
+  {  "SURE" : " 4-NİSA",
     "AYETLER": {
       "1": "Ey insanlar! Sizi bir tek nefisten yaratan ve ondan eşini yaratıp ikisinden bir çok erkekler ve kadınlar üreten Rabbinizden korkun; kendi adına birbirinizden dilekte bulunduğunuz Allah'tan ve akrabalık (bağlarını kırmak)tan sakının. Şüphesiz Allah sizin üzerinizde gözeticidir.",
       "2": "Öksüzlere mallarını verin ve kötüsünü (onlara vererek) iyisiyle değiştirmeyin. Onların mallarını, kendi mallarınıza karıştırıp yemeyin. Zira bu, büyük bir günahtır.",
@@ -680,7 +682,7 @@
       "160/161": "Yahudilerin zulmetmeleri ve birçok kimseleri Allah yolundan alıkoymaları, yasaklandıkları halde faiz almaları ve insanların mallarını haksız yere yemeleri sebebiyle daha önce kendilerine helâl kılınan temiz şeyleri haram kıldık. Onlardan kâfir olanlara can yakıcı bir azap hazırladık."
     }
   },
-  "SURE: 5-MAİDE": {
+  {  "SURE" : " 5-MAİDE",
     "AYETLER": {
       "1": "Ey iman edenler! Sözleşmeleri yerine getirin. İhramlı iken avlanmayı helal saymamanız şartıyla, çeşitli hayvanlar size helal kılındı. Ancak haram oldukları size okunacak olanlar müstesna. Şüphesiz Allah dilediği hükmü verir.",
       "2": "Ey iman edenler! Allah'ın alâmetlerine, haram aya, kurbanlık hediyelere, gerdanlıklarına ve Rablerinden lütuf ve rıza bekleyerek Kabe'ye yönelenlere sakın saygısızlık etmeyin. İhramdan çıktığınız zaman avlanabilirsiniz. Sizi Mescid-i Haram'dan çevirdiklerinden dolayı bir topluma karşı olan kininiz, sizi saldırıya sevk etmesin. İyilik ve takva üzerinde yardımlaşın, günah ve düşmanlık üzerinde yardımlaşmayın. Allah'tan korkun. Çünkü Allah'ın azabı çetindir.",
@@ -804,7 +806,7 @@
       "120": "Göklerin, yerin ve bunlarda bulunan her şeyin mülkü Allah'ındır. O her şeye kâdirdir."
     }
   },
-  "SURE: 6-EN'AM": {
+  {  "SURE" : " 6-EN'AM",
     "AYETLER": {
       "1": "Hamd, gökleri ve yeri yaratan, karanlıkları ve aydınlığı var eden Allah'a mahsustur. Böyleyken kâfirler hâlâ Rablerine başkalarını eşit sayıyorlar.",
       "2": "Sizi çamurdan yaratan, sonra size bir ecel takdir eden O'dur. Tayin edilen bir ecel de (kıyamet zamanı) O'nun katındadır. Sonra bir de şüphe ediyorsunuz.",
@@ -973,7 +975,7 @@
       "165": "Sizi yeryüzünün halifeleri yapan, size verdiği şeylerde, sizi denemek için, kiminizi kiminizden derecelerle üstün kılan O'dur. Şüphesiz Rabbin, cezası çabuk olandır ve O, bağışlayan, esirgeyendir."
     }
   },
-  "SURE: 7-ARAF": {
+  {  "SURE" : " 7-ARAF",
     "AYETLER": {
       "1": "Elif, lâm, mîm, sâd.",
       "2": "(Bu,) sana indirilen bir Kitab'tır. Onunla (insanları) uyarman ve inananlara öğüt (vermen) hususunda göğsünde bir sıkıntı olmasın.",
@@ -1183,7 +1185,7 @@
       "206": "Zira Rabbinin katında olanlar, Allah'a kulluk etmekten asla kibirlenmezler, O'nu tenzih eder, şanını ulularlar ve yalnızca O'na secde ederler."
     }
   },
-  "SURE: 8-ENFAL": {
+  {  "SURE" : " 8-ENFAL",
     "AYETLER": {
       "1": "Sana ganimetlerin bölüştürülmesini soruyorlar. De ki, ganimetlerin taksimi Allah'a ve Resulüne aittir. Onun için siz gerçekten mümin kimseler iseniz Allah'tan korkun da biribirinizle aranızı düzeltin. Allah'a ve Resulü'ne itaat edin.",
       "2": "Gerçek müminler ancak o müminlerdir ki, Allah anıldığı zaman yürekleri ürperir, âyetleri okunduğu zaman imanlarını arttırır. Ve bunlar yalnızca Rablerine tevekkül ederler.",
@@ -1262,7 +1264,7 @@
       "75": "Daha sonradan hicret edip sizinle beraber savaşa katılanlar da sizdendirler. Bir de akraba olanlar, Allah'ın kitabına göre, birbirlerine daha yakındırlar. Şüphe yok ki, Allah her şeyi bilir."
     }
   },
-  "SURE: 9-TEVBE": {
+  {  "SURE" : " 9-TEVBE",
     "AYETLER": {
       "1": "Allah'dan ve Resulü'nden bir ültimatomdur bu, kendileriyle antlaşma yaptığınız müşriklere:",
       "2": "Bundan böyle yeryüzünde dört ay daha istediğiniz gibi gezip dolaşın. Şunu da bilin ki, Allah'ı aciz bırakacak değilsiniz. Allah kâfirleri mutlaka perişan edecektir.",
@@ -1395,7 +1397,7 @@
       "129": "Eğer aldırmazlarsa onlara de ki: Bana Allah yeter. O'ndan başka ilâh yoktur. Ben O'na dayanmaktayım ve O, o büyük Arş'ın Rabbidir."
     }
   },
-  "SURE: 10-YUNUS": {
+  {  "SURE" : " 10-YUNUS",
     "AYETLER": {
       "1": "Elif, Lâm, Râ. İşte bunlar o hikmetli kitabın âyetleridir.",
       "2": "İnsanları (eğri yolun sonundan) korkut, inananlara Rableri nezdindeki yüksek makamları müjdele, diye içlerinden bir adama vahyimizi göndermemiz onlara tuhaf mı geldi? Kâfirler: \"Hiç şüphesiz bu besbelli bir sihirbaz.\" dediler.",
@@ -1508,7 +1510,7 @@
       "109": "Sana vahyolunana uy! Ve Allah hükmünü verinceye kadar sabret. Çünkü O, hüküm verenlerin en hayırlısıdır."
     }
   },
-  "SURE: 11-HUD": {
+  {  "SURE" : " 11-HUD",
     "AYETLER": {
       "1": "Elif-Lâm-Râ. Bu öyle bir kitaptır ki, âyetleri muhkem kılınmış, sonra da herşeyden haberdar olan hikmet sahibi Allah tarafından âyetleri ayrıntılı olarak açıklanmıştır.",
       "2": "(Şöyle ki:) Allah'dan başkasına kulluk etmeyin. Ben size O'nun tarafından müjde vermek ve uyarmak için gönderilmiş gerçek bir peygamberim.",
@@ -1634,7 +1636,7 @@
       "122": "Siz bekleyin görün, biz de bekleyip göreceğiz. Göklerin ve yerin gaybını bilmek yalnızca Allah'a mahsustur. Her iş O'na döndürülür. Sen yalnızca O'na ibadet et ve yalnızca O'na dayan. Rabbin yaptıklarınızın hiçbirinden gafil değildir."
     }
   },
-  "SURE: 12-YUSUF": {
+  {  "SURE" : " 12-YUSUF",
     "AYETLER": {
       "1": "Elif, Lâm, Râ. İşte bunlar sana o açık seçik kitabın âyetleridir.",
       "2": "Muhakkak ki, biz onu anlayasınız diye Arapça bir kitap olarak indirdik.",
@@ -1749,7 +1751,7 @@
       "111": "Gerçekten de onların kıssalarında üstün akıllılar için bir ibret vardır. Bu Kur'ân uydurulmuş herhangi bir söz değildir. Lâkin kendisinden önce gelen kitapların tasdiki her şeyin ayrıntılarıyla açıklayıcısı ve iman edecek bir kavim için hidayet ve rahmettir."
     }
   },
-  "SURE: 13-RA'D": {
+  {  "SURE" : " 13-RA'D",
     "AYETLER": {
       "1": "Elif, Lâm, Mîm, Ra. İşte bunlar sana o kitabın âyetleridir ve sana Rabbinden indirilen haktır. Lâkin insanların çoğu iman etmezler.",
       "2": "Allah O'dur ki, gökleri direksiz yükseltti, onu görüyorsunuz, sonra arş üzerine istiva etti, güneşi ve ayı emrine boyun eğdirdi. Her biri belli bir vakte kadar akar gider. Bütün işleri O yönetiyor. Âyetleri O açıklıyor ki, Rabbinizin huzuruna çıkacağınızı iyi bilesiniz.",
@@ -1796,7 +1798,7 @@
       "43": "O kâfirler: \"Sen Allah tarafından gönderilmiş bir peygamber değilsin\" diyorlar. De ki: \"Benimle sizin aranızda şahit olarak Allah yeter, bir de yanında kitap ilmi bulunan (yeter).\""
     }
   },
-  "SURE: 14-İBRAHİM": {
+  {  "SURE" : " 14-İBRAHİM",
     "AYETLER": {
       "1": "Elif, Lâm, Râ. Bu Kur'ân öyle büyük bir kitaptır ki, insanları Rablerinin izni ile karanlıklardan aydınlığa, her şeye galip ve hamde lâyık olan Allah'ın yoluna çıkarman için onu sana indirdik.",
       "2": "O Allah'ın (yolu) ki, göklerde ve yerde ne varsa hepsi O'nundur. Şiddetli bir azabdan dolayı vay kâfirlerin haline!",
@@ -1852,7 +1854,7 @@
       "52": "Bu Kur'ân, kendisiyle uyarılsınlar, Allah'ın ancak bir tek ilâh olduğunu bilsinler ve akıl sahipleri öğüt alsınlar diye insanlara gönderilmiş bir tebliğdir."
     }
   },
-  "SURE: 15-HİCR": {
+  {  "SURE" : " 15-HİCR",
     "AYETLER": {
       "1": "Elif, Lâm, Râ. Bunlar kitabın ve apaçık bir Kur'ân'ın âyetleridir.",
       "2": "Bir zaman gelecek ki inkâr edenler, keşke müslüman olsaydık temennisinde bulunacaklardır.",
@@ -1954,7 +1956,7 @@
       "92-93": "Rabbin hakkı için biz, mutlaka onların hepsini yaptıklarından dolayı hesaba çekeceğiz."
     }
   },
-  "SURE: 16-NAHL": {
+  {  "SURE" : " 16-NAHL",
     "AYETLER": {
       "1": "Allah'ın emri geldi, sakın onu acele edip istemeyiniz. Allah, müşriklerin koştukları ortaklardan münezzeh ve yücedir.",
       "2": "Kendi emrinden ruh (vahiy) ile melekleri, kullarından dilediği peygamberlere indirip şu gerçeği insanlara bildirin, buyuruyor: Benden başka hiçbir ilâh yoktur. Ancak benden korkun.",
@@ -2086,7 +2088,7 @@
       "128": "Şüphesiz Allah, takva sahipleri ile ve iyilikte bulunanlarla beraberdir."
     }
   },
-  "SURE: 17-İSRA": {
+  {  "SURE" : " 17-İSRA",
     "AYETLER": {
       "1": "Kulu Muhammed'i geceleyin, Mescid-i Haram'dan kendisine bazı âyetlerimizi göstermek için, etrafını mübarek kıldığımız Mescid-i Aksâ'ya götüren Allah, her türlü noksan sıfatlardan münezzehtir. Şüphesiz ki her şeyi hakkıyla işiten, hakkıyla gören O'dur.",
       "2": "Musa'ya da kitap verdik ve beni bırakıp başkasını vekil edinmeyiniz diye onu İsrail oğulları için bir hidayet rehberi kıldık.",
@@ -2201,7 +2203,7 @@
       "111": "Ve şöyle de: Hamd o Allah'a ki, hiçbir çocuk edinmedi, mülkte ortağı yoktur, aciz olmayıp bir yardımcıya da ihtiyacı yoktur. Tekbir getirerek O'nu noksanlıklardan yücelt de yücelt."
     }
   },
-  "SURE: 18-KEHF": {
+  {  "SURE" : " 18-KEHF",
     "AYETLER": {
       "1": "Hamd, o Allah'a mahsustur ki kulu (Muhammed'e) kitabı indirdi ve ona hiçbir eğrilik koymadı.",
       "2": "Onu dosdoğru (bir kitap) olarak (indirdi) ki katından gelecek şiddetli azaba karşı (insanları) uyarsın ve yararlı işler yapan müminlere kendileri için güzel bir mükafat bulunduğunu müjdelesin.",
@@ -2315,7 +2317,7 @@
       "110": "De ki: \"Ben de sizin gibi ancak bir beşerim. Ne var ki, bana ilâhınızın ancak bir ilâh olduğu vahyolunuyor. Onun için her kim Rabbine kavuşmayı arzu ederse iyi amel işlesin ve Rabbine yaptığı ibadete hiç kimseyi ortak etmesin.\""
     }
   },
-  "SURE: 19-MERYEM": {
+  {  "SURE" : " 19-MERYEM",
     "AYETLER": {
       "1": "Kâf, Hâ, Yâ, Ayn, Sâd.",
       "2": "Bu, Rabbinin, kulu Zekeriyya'ya olan rahmetini anmadır.",
@@ -2417,7 +2419,7 @@
       "98": "Hem onlardan önce nice nesilleri helak ettik. (Şimdi) onlardan hiçbirini görüyor musun, yahud onların hafif bir sesini işitiyor musun?"
     }
   },
-  "SURE: 20-TAHA": {
+  {  "SURE" : " 20-TAHA",
     "AYETLER": {
       "1": "Tâ, Hâ,",
       "2": "Ey Muhammed! Kur'ân'ı sana sıkıntıya düşesin diye indirmedik.",
@@ -2556,7 +2558,7 @@
       "135": "De ki: \"Hepimiz beklemekteyiz, siz de bekleyedurun. Şüphesiz düz yolun sahiplerinin kimler olduğunu ve kimlerin doğru yolda bulunduğunu yakında bileceksiniz."
     }
   },
-  "SURE: 21-ENBİYA": {
+  {  "SURE" : " 21-ENBİYA",
     "AYETLER": {
       "1": "İnsanların hesab (görme) zamanı yaklaştı. Onlar ise hâlâ gaflet içinde, yan çizip aldırmıyorlar.",
       "2": "Rablerinden kendilerine gelen her yeni hatırlatmayı hep eğlenerek dinliyorlar.",
@@ -2672,7 +2674,7 @@
       "112": "(Hz. Peygamber şöyle) dedi: \"Ey Rabbim! Aramızda gerçekle hükmet ve Rabbimiz O Rahmân'dır ki, isnad ettiğiniz (yalan) vasıflarınıza karşı yardımına sığınılacak olan ancak O'dur. \""
     }
   },
-  "SURE: 22-HAC": {
+  {  "SURE" : " 22-HAC",
     "AYETLER": {
       "1": "Ey İnsanlar! Rabbinizden sakının; şüphesiz o kıyamet gününün sarsıntısı çok büyük bir şeydir.",
       "2": "Onu göreceğiniz gün, her emzikli kadın emzirdiğinden geçer. Ve her hamile kadın çocuğunu düşürür. İnsanları hep sarhoş görürsün, halbuki sarhoş değillerdir. Fakat Allah'ın azabı çok şiddetlidir.",
@@ -2754,7 +2756,7 @@
       "78": "Allah uğrunda gerektiği gibi cihad edin. Sizi o seçmiş, babanız İbrahim'in yolu olan dinde sizin için bir zorluk kılmamıştır. Daha önce ve Kur'ân'da, Peygamberin size şahid olması, sizin de insanlara şahid olmanız için, size müslüman adını veren O'dur. Artık namaz kılın, zekat verin, Allah'a sarılın. O sizin sahibinizdir. O ne güzel sahip ve ne güzel yardımcıdır!"
     }
   },
-  "SURE: 23-MÜ'MİNUN": {
+  {  "SURE" : " 23-MÜ'MİNUN",
     "AYETLER": {
       "1": "Gerçekten müminler kurtuluşa ermiştir,",
       "2": "Onlar ki, namazlarında huşû içindedirler,",
@@ -2876,7 +2878,7 @@
       "118": "Resulüm! De ki: \"Rabbim, bağışla ve merhamet et! Sen merhametlilerin en iyisisin.\""
     }
   },
-  "SURE: 24-NUR": {
+  {  "SURE" : " 24-NUR",
     "AYETLER": {
       "1": "(İşte bu âyetler) bizim indirdiğimiz ve (hükümlerini üzerinize) farz kıldığımız bir sûredir. Belki düşünüp öğüt alırsınız diye onda açık açık âyetler indirdik.",
       "2": "Zina eden kadın ve zina eden erkekten her birine yüz sopa vurun; Allah'a ve ahiret gününe inanıyorsanız, Allah dini(ni tatbik) hususunda sizi sakın acıma duygusu kaplamasın! Müminlerden bir grup da onlara uygulanan cezaya şahit olsun.",
@@ -2944,7 +2946,7 @@
       "64": "Bilmiş olun ki, göklerde ve yerde ne varsa Allah'ındır. O, sizin ne yolda, ne durumda olduğunuzu iyi bilir. Huzuruna döndürülecekleri günde ise, yapmış olduklarını hemen kendilerine haber verir. Allah, her şeyi hakkıyla bilendir."
     }
   },
-  "SURE: 25-FURKAN": {
+  {  "SURE" : " 25-FURKAN",
     "AYETLER": {
       "1": "\"Tebareke\" ne yüce feyyazdır o ki, dünyaları uyarmak üzere kulu Muhammed'e, hakkı batıldan ayırdeden Kur'ân'ı indirdi.",
       "2": "O öyle bir ilâhtır ki, göklerin ve yerin hükümranlığı kendisinindir. O hiç çocuk edinmedi, hükümranlıkta ortağı yoktur. O, her şeyi yaratıp bir ölçüye göre düzenleyerek takdir etmiştir.",
@@ -3025,7 +3027,7 @@
       "77": "(Resulüm!) De ki: \"Rabbim size ne kıymet verir duanız olmasa? (Ey inkârcılar! Size bildirdiklerini) kesinkes yalan saydınız; o halde azab yakanızı bırakmayacaktır!"
     }
   },
-  "SURE: 26-ŞUARA": {
+  {  "SURE" : " 26-ŞUARA",
     "AYETLER": {
       "1": "Tâ, Sîn, Mîm.",
       "2": "Bunlar sana apaçık kitabın âyetleridir.",
@@ -3249,7 +3251,7 @@
       "225,": "Onların her vadide şaşkın şaşkın dolaştıklarını ve gerçekte yapmadıkları şeyleri söylediklerini görmedin mi?"
     }
   },
-  "SURE: 27-NEML": {
+  {  "SURE" : " 27-NEML",
     "AYETLER": {
       "1": "Tâ, Sîn. Bunlar sana, Kur'ân'ın ve apaçık bir kitabın âyetleridir.",
       "2": "İman eden müminler için hidayet rehberi ve müjdeci olmak üzere.",
@@ -3346,7 +3348,7 @@
       "93": "Ve şöyle de: Hamd, Allah'a mahsustur. O, âyetlerini size gösterecek, siz de onları görüp tanıyacaksınız. Rabbin, yaptıklarınızdan habersiz değildir."
     }
   },
-  "SURE: 28-KASAS": {
+  {  "SURE" : " 28-KASAS",
     "AYETLER": {
       "1": "Tâ, Sîn, Mîm.",
       "2": "Bunlar, apaçık kitabın âyetleridir.",
@@ -3438,7 +3440,7 @@
       "88": "Allah ile birlikte başka bir tanrıya tapıp yalvarma! O'ndan başka tanrı yoktur. O'nun zatından başka her şey helak olacaktır. Hüküm O'nundur ve siz ancak O'na döndürüleceksiniz."
     }
   },
-  "SURE: 29-ANKEBUT": {
+  {  "SURE" : " 29-ANKEBUT",
     "AYETLER": {
       "1": "Elif, Lâm, Mîm.",
       "2": "İnsanlar, imtihandan geçirilmeden, sadece \"İman ettik\" demeleriyle bırakılıvereceklerini mi sandılar?",
@@ -3511,7 +3513,7 @@
       "69": "Ama bizim yolumuzda cihad edenleri, elbette kendi yollarımıza eriştireceğiz. Hiç şüphe yok ki Allah iyi davrananlarla beraberdir."
     }
   },
-  "SURE: 30-RUM": {
+  {  "SURE" : " 30-RUM",
     "AYETLER": {
       "1": "Elif, Lâm, Mim.",
       "2": "Rumlar yenildi.",
@@ -3575,7 +3577,7 @@
       "60": "Şimdi sen sabret. Çünkü Allah'ın vaadi mutlaka haktır. Sakın imanı sağlam olmayanlar seni hafifliğe sevketmesinler."
     }
   },
-  "SURE: 31-LOKMAN": {
+  {  "SURE" : " 31-LOKMAN",
     "AYETLER": {
       "1": "Elif, Lâm, Mîm.",
       "2": "Bunlar, o hikmetli kitabın âyetleridir.",
@@ -3613,7 +3615,7 @@
       "34": "Şüphesiz ki, kıyamet saatinin bilgisi Allah yanındadır. Yağmuru O yağdırır, rahimlerde ne varsa (erkek veya dişi oluşunu, renk ve özelliklerini) O bilir. Hiçbir kimse yarın ne kazanacağını bilmez. Hiçbir kimse hangi yerde öleceğini de bilemez. Şüphesiz ki Allah her şeyi hakkıyla bilir, her şeyden haberdardır."
     }
   },
-  "SURE: 32-SECDE": {
+  {  "SURE" : " 32-SECDE",
     "AYETLER": {
       "1": "Elif, Lâm, mim.",
       "2": "Kendisinde şüphe olmayan bu kitabın indirilişi, âlemlerin Rabbi olan Allah tarafındandır.",
@@ -3647,7 +3649,7 @@
       "30": "Şimdi sen onlardan yüz çevir de gözet. Çünkü onlar da gözetmektedirler."
     }
   },
-  "SURE: 33-AHZAB": {
+  {  "SURE" : " 33-AHZAB",
     "AYETLER": {
       "1": "Ey peygamber! Allah'tan kork, kâfirlere ve münafıklara itaat etme. Muhakkak ki Allah her şeyi bilir, hüküm ve hikmet sahibidir.",
       "2": "Rabbinden sana ne vahyediliyorsa onun ardınca git. Muhakkak ki Allah ne yaparsanız haberdardır.",
@@ -3724,7 +3726,7 @@
       "73": "Çünkü Allah münafık erkeklerle münafık kadınlara, müşrik erkeklerle müşrik kadınlara azab edecek, mümin erkeklerle mümin kadınların da tevbelerini kabul edecektir. Allah çok bağışlayıcıdır, çok merhamet edicidir."
     }
   },
-  "SURE: 34-SEBE'": {
+  {  "SURE" : " 34-SEBE'",
     "AYETLER": {
       "1": "Hamd, o Allah'ındır ki göklerde ne var, yerde ne varsa hep O'nundur. Ahirette de hamd O'nundur. O hüküm ve himet sahibidir, herşeyden haberdardır.",
       "2": "Yere ne giriyor ve ondan ne çıkıyor, gökten ne iniyor ve ona ne çıkıyorsa (Allah) hepsini bilir. O çok merhamet edicidir. Çok bağışlayıcıdır.",
@@ -3782,7 +3784,7 @@
       "54": "Artık kendileriyle arzularının arasına set çekilmiştir. Tıpkı bundan önce benzerlerine yapıldığı gibi. Çünkü hepsi işkilli bir şüphe içinde bulunuyorlardı."
     }
   },
-  "SURE: 35-FATIR": {
+  {  "SURE" : " 35-FATIR",
     "AYETLER": {
       "1": "Hamd, gökleri ve yeri yaratan, melekleri ikişer, üçer, dörder kanatlı elçiler kılan Allah'a mahsustur. O, yaratmada dilediği kadar artırır. Gerçekten Allah her şeye kâdirdir.",
       "2": "Allah, insanlara rahmetinden neyi açarsa artık onu tutacak, kısacak olan yoktur. Her neyi de tutar kısarsa, onu da, ondan sonra salacak yoktur. O, çok güçlüdür, hüküm ve hikmet sahibidir.",
@@ -3831,7 +3833,7 @@
       "45": "Bununla beraber Allah, insanları kazandıkları (günahlar) yüzünden hemen yakalayıverseydi, yeryüzünde hiçbir canlı bırakmazdı. Fakat onları belli bir süreye kadar erteliyor. Nihayet ecelleri gelince gereğini yapar.Şüphe yok ki Allah, kullarını görmektedir."
     }
   },
-  "SURE: 36-YASİN": {
+  {  "SURE" : " 36-YASİN",
     "AYETLER": {
       "1": "Yâsîn.",
       "4": "Dosdoğru bir yol üzerindesin.",
@@ -3915,7 +3917,7 @@
       "60,": "\"Ey Âdemoğulları! Şeytana tapmayın, o size apaçık bir düşmandır ve bana kulluk edin, doğru yol budur, diye size and vermedim mi?\" (buyurulacak)"
     }
   },
-  "SURE: 37-SAFFAT": {
+  {  "SURE" : " 37-SAFFAT",
     "AYETLER": {
       "1": "Andolsun o saf bağlayıp duranlara.",
       "2": "O haykırıp da sürenlere.",
@@ -4083,7 +4085,7 @@
       "171,": "Andolsun ki peygamberlikle gönderilen kullarımız hakkında şu sözümüz geçmiştir: \"Onlar var ya, elbette onlar muzaffer olacaklardır ve elbette bizim ordularımız mutlaka galip geleceklerdir.\""
     }
   },
-  "SURE: 38-SAD": {
+  {  "SURE" : " 38-SAD",
     "AYETLER": {
       "1": "Sâd. Bu zikirle dolu Kur'ân'a bak!",
       "2": "O inkâr edenler bir gurur ve ayrılık içindedirler.",
@@ -4174,7 +4176,7 @@
       "80,": "Allah: \"Haydi belirli bir vakte kadar mühlet verilenlerdensin\" buyurdu."
     }
   },
-  "SURE: 39-ZÜMER": {
+  {  "SURE" : " 39-ZÜMER",
     "AYETLER": {
       "1": "Bu kitabın indirilişi, Azîz ve Hakîm olan Allah tarafındandır.",
       "2": "Emin ol, biz sana kitabı hakkıyla indirdik. Onun için dini yalnız kendisine halis kılarak Allah'a ibadet ve kulluk et.",
@@ -4253,7 +4255,7 @@
       "75": "Meleklerin de arşın etrafını kuşatarak, Rablerine hamd ile tesbih ettiklerini görürsün. Artık halk arasında hak ile hüküm icra edilip \"âlemlerin Rabbi Allah'a hamdolsun\" denilmektedir."
     }
   },
-  "SURE: 40-MÜ'MİN": {
+  {  "SURE" : " 40-MÜ'MİN",
     "AYETLER": {
       "1": "Hâ Mîm.",
       "2": "Bu kitabın indirilişi, çok güçlü ve her şeyi bilen Allah tarafındandır.",
@@ -4342,7 +4344,7 @@
       "85": "Ama hışmımızı gördükleri zamanki imanları kendilerine fayda verecek değildi. Allah'ın, kulları hakkındaki geçe gelen kanunu budur. İşte kâfirler bu noktada hüsrana düştüler."
     }
   },
-  "SURE: 41-FUSSİLET": {
+  {  "SURE" : " 41-FUSSİLET",
     "AYETLER": {
       "1": "Hâ Mîm.",
       "2": "Bu Kur'ân Rahmân ve Rahîm olan Allah tarafından indirilmiştir.",
@@ -4400,7 +4402,7 @@
       "54": "İyi bilin ki onlar Rablerine kavuşmaktan bir şüphe içindedirler, yine iyi bilin ki, Allah her şeyi ilmiyle kuşatmıştır."
     }
   },
-  "SURE: 42-ŞÛRA": {
+  {  "SURE" : " 42-ŞÛRA",
     "AYETLER": {
       "6": "O'nun berisinden velî/[dost ve hâmillere tutunanlara gelince, onların da üzerlerine Allah gözcü, sen değilsin üzerlerine vekîl.",
       "7": "Ve işte böyle sana Arabî [dil ve kültür itibariyle Arab'a has] bir kur'ân [hitabe] vahyetmekteyiz ki: Ummu'l-Kurâ'yı [Mekkeli-leri] ve çevresindekileri (uyarıp) sakındırasın ve o topla(n)ma gününün dehşetini haber veresin, -(ki o günün geleceğinde) şüphe yok- (o gün) bir fırka cennette, bir fırka saîrde [çılgın ateşte].",
@@ -4441,7 +4443,7 @@
       "52-53": "Ve işte sana böyle emrimizden biz ruh vahyettirdik. (Bu mesaj sana gelmeden önce) sen kitap nedir, iman nedir biliniyordun, velakin biz onu bir nur kıldık, onunla kullarımızdan dilediğimize hidayet vereceğiz ve emin ol sen her halde [hakikaten] doğru bir yola çağırıyor/[kılavuzluyor]sun; o Allah'ın yoluna ki: Göklerde   ne   var,   yerde   ne   varsa   hep O'nundur. Uyan! Bütün işler, döner dolaşır Allah'a varır."
     }
   },
-  "SURE: 43-ZUHRUF": {
+  {  "SURE" : " 43-ZUHRUF",
     "AYETLER": {
       "1": "Hâ, mîm.",
       "4": "Gerçekten o bizim nezdimizde bulunan ana kitapta mevcut yüce ve hikmet dolu bir kitaptır.",
@@ -4532,7 +4534,7 @@
       "68-69": "Allah, takva sahiplerine şöyle nida eder: \"Ey âyetlerimize imân edip müslüman olan kullarım! Bugün size hiçbir korku yoktur ve siz üzülmeyeceksiniz."
     }
   },
-  "SURE: 44-DUHAN": {
+  {  "SURE" : " 44-DUHAN",
     "AYETLER": {
       "1": "Hâ, mîm.",
       "7": "Siz eğer kesin olarak inanıyorsanız, iyi bilin ki Allah göklerin, yerin ve ikisi arasındakilerin Rabbidir.",
@@ -4591,7 +4593,7 @@
       "10-11": "Ey Muhammed! Şimdi sen göğün, insanları bürüyecek açık bir duman getireceği günü gözetle. Bu acı bir azabdır."
     }
   },
-  "SURE: 45-CASİYE": {
+  {  "SURE" : " 45-CASİYE",
     "AYETLER": {
       "1": "Hâ, mîm",
       "2": "Bu kitap, Azîz ve Hakîm olan Allah tarafından indirilmiştir.",
@@ -4632,7 +4634,7 @@
       "37": "Göklerde ve yerde büyüklük ve hâkimiyet O'nundur. O, Aziz'dir (herşeye galiptir); Hakîm'dir (hüküm ve hikmet sahibidir)."
     }
   },
-  "SURE: 46-AHKAF": {
+  {  "SURE" : " 46-AHKAF",
     "AYETLER": {
       "1": "Hâ mîm.",
       "2": "Bu kitabın indirilişi, çok güçlü, hüküm ve hikmet sahibi olan Allah tarafındandır.",
@@ -4671,7 +4673,7 @@
       "35": "Ey Muhammed! Azim sahibi peygamberlerin sabrettikleri gibi sen de sabret! Onlar için (azab hususunda) acele etme. Sanki onlar kendilerine vaad edilen azabı gördükleri gün dünyada sadece gündüzün bir saati kadar kaldıklarını sanırlar. Bu bir tebliğdir. Hiç yoldan çıkan fasıklar topluluğundan başkası helak edilir mi?"
     }
   },
-  "SURE: 47-MUHAMMED": {
+  {  "SURE" : " 47-MUHAMMED",
     "AYETLER": {
       "1": "İnkâr edenlerin ve Allah yolundan alıkoyanların amellerini Allah boşa çıkarır.",
       "2": "İman edip salih amel işleyenlerin ve Rableri tarafından bir gerçek olarak Muhammed'e indirilen kitaba inananların kötülüklerini Allah örter ve durumlarını düzeltir.",
@@ -4713,7 +4715,7 @@
       "38": "İşte sizler Allah yolunda harcamaya çağrılan kimselersiniz. İçinizden kiminiz cimrilik ediyor. Ama cimrilik eden ancak kendi zararına cimrilik eder. Allah zengindir, siz ise fakirsiniz. Eğer siz Hakk'tan yüz çevirirseniz Allah yerinize başka bir kavim getirir. Sonra onlar sizin gibi olmazlar."
     }
   },
-  "SURE: 48-FETİH": {
+  {  "SURE" : " 48-FETİH",
     "AYETLER": {
       "1": "Doğrusu biz sana apaçık bir fetih ihsân ettik.",
       "2": "Böylece Allah senin geçmiş ve gelecek günahını bağışlar. Sana olan nimetini tamamlar ve seni doğru yola iletir.",
@@ -4746,7 +4748,7 @@
       "29": "Muhammed Allah'ın elçisidir. Onun yanında bulunanlar da kâfirlere karşı çetin, kendi aralarında merhametlidirler. Onları rükûa varırken secde ederken görürsün. Allah'tan lütuf ve rıza isterler. Yüzlerinde secdelerin izinden nişanları vardır. Bu, onların Tevrat'taki vasıflarıdır. İncil'deki vasıfları da şöyledir: Onlar filizini yarıp çıkarmış, gittikçe onu kuvvetlendirerek kalınlaşmış, gövdesi üzerine dikilmiş bir ekine benzerler ki bu, ziraatçıların da hoşuna gider. Allah böylece onları çoğaltıp kuvvetlendirmekle kâfirleri öfkelendirir. Allah inanıp iyi işler yapanlara mağfiret ve büyük bir mükâfat vaad etmiştir."
     }
   },
-  "SURE: 49-HUCURAT": {
+  {  "SURE" : " 49-HUCURAT",
     "AYETLER": {
       "1": "Ey iman edenler! Allah'ın ve Resulünün huzurunda öne geçmeyin. Allah'tan korkun. Şüphesiz Allah işitendir, bilendir.",
       "2": "Ey iman edenler!Seslerinizi Peygamber'in sesinden fazla yükseltmeyin. Birbirinize bağırdığınız gibi, Peygamber'e yüksek sesle bağırmayın. Öyle yaparsanız, siz farkına varmadan amelleriniz boşa gider.",
@@ -4768,7 +4770,7 @@
       "18": "Şüphesiz Allah, göklerin ve yerin görülmeyen esrarını bilir. Allah yaptıklarınızı görür."
     }
   },
-  "SURE: 50-KAF": {
+  {  "SURE" : " 50-KAF",
     "AYETLER": {
       "1": "Kâf. Şanlı ve şerefli Kur'an'a andolsun ki,",
       "2": "Doğrusu kâfirler kendi içlerinden uyarıcı bir peygamber geldiğine şaşırdılar da dediler ki: \"Bu şaşılacak bir şeydir!",
@@ -4816,7 +4818,7 @@
       "32-33": "Onlara denir ki: \"İşte size vaad edilen bu cennet, Allah'a yönelen, O'nun emirlerine riayet eden, görmediği halde Rahman olan Allah'tan korkan ve O'na yönelen bir kalple gelenlere mahsustur."
     }
   },
-  "SURE: 51-ZARİYAT": {
+  {  "SURE" : " 51-ZARİYAT",
     "AYETLER": {
       "1": "O tozdurup savuranlara,",
       "2": "Derken bir ağırlık taşıyanlara,",
@@ -4878,7 +4880,7 @@
       "20,": "Kesin olarak inananlar için, yeryüzünde ve kendi nefislerinde nice ibretler vardır. Hiç görmüyor musunuz?"
     }
   },
-  "SURE: 52-TUR": {
+  {  "SURE" : " 52-TUR",
     "AYETLER": {
       "1": "Andolsun Tûr'a,",
       "4": "Ma'mur eve,",
@@ -4930,7 +4932,7 @@
       "2,3": "Yayılmış ince deri üzerine, satır satır yazılmış kitaba,"
     }
   },
-  "SURE: 53-NECM": {
+  {  "SURE" : " 53-NECM",
     "AYETLER": {
       "1": "İnmekte olan yıldıza andolsun ki,",
       "2": "Arkadaşınız (Muhammed) sapmadı, azmadı.",
@@ -4996,7 +4998,7 @@
       "62": "Haydi Allah için secdeye kapanın ve O'na kulluk edin."
     }
   },
-  "SURE: 54-KAMER": {
+  {  "SURE" : " 54-KAMER",
     "AYETLER": {
       "1": "Kıyamet saati yaklaştı, Ay yarıldı.",
       "2": "Bir mucize görseler hemen yüz çevirirler ve \"süregelen bir büyüdür\" derler.",
@@ -5055,7 +5057,7 @@
       "55": "Güçlü padişahın huzurunda doğruluk koltuklarındadırlar."
     }
   },
-  "SURE: 55-RAHMAN": {
+  {  "SURE" : " 55-RAHMAN",
     "AYETLER": {
       "1": "Rahmân (çok merhametli olan Allah)",
       "2": "Kurân'ı öğretti.",
@@ -5137,7 +5139,7 @@
       "78": "Büyüklük ve ikram sahibi Rabbinin adı ne yücedir!"
     }
   },
-  "SURE: 56-VAKIA": {
+  {  "SURE" : " 56-VAKIA",
     "AYETLER": {
       "1": "Olacak vak'a olduğu zaman",
       "2": "Onun oluşunu yalanlayacak kimse yoktur.",
@@ -5237,7 +5239,7 @@
       "96": "Öyle ise Rabbini o büyük ismiyle tesbih et."
     }
   },
-  "SURE: 57-HADİD": {
+  {  "SURE" : " 57-HADİD",
     "AYETLER": {
       "1": "Göklerde ve yerde bulunan her şey Allah'ı tesbih etmektedir. O, çok güçlüdür, hüküm ve hikmet sahibidir.",
       "2": "Göklerin ve yerin mülkü O'nundur. O, diriltir, öldürür, O, her şeye kadirdir.",
@@ -5270,7 +5272,7 @@
       "29": "Böylece Kitab ehli, Allah'ın lütfundan hiçbir şey elde edemiyeceklerini bilsinler. Lütuf bütünüyle Allah'ın elindedir, onu dilediğine verir. Allah, büyük lütuf sahibidir."
     }
   },
-  "SURE: 58-MÜCADELE": {
+  {  "SURE" : " 58-MÜCADELE",
     "AYETLER": {
       "1": "Kocası hakkında seninle tartışan ve Allah'a şikayette bulunan kadının sözünü Allah işitmiştir. Allah, sizin konuşmanızı işitir. Çünkü Allah, işitendir, bilendir.",
       "2": "İçinizde zıhâr yapanların kadınları, onların anaları değildir. Onların anaları ancak kendilerini doğuran kadındır. Şüphesiz onlar çirkin ve yalan bir laf söylüyorlar. Kuşkusuz Allah, affedici, bağışlayıcıdır.",
@@ -5296,7 +5298,7 @@
       "22": "Allah'a ve ahiret gününe inanan bir milletin, babaları, oğulları, kardeşleri, yahut akrabaları da olsa Allah'a ve Resulüne düşman olanlarla dostluk ettiğini görmezsiniz. Onlar o kimselerdir ki Allah kalblerine iman yazmış ve onları kendinden bir ruh ile desteklemiştir. Onları, altlarından ırmaklar akan cennetlere sokacak, orada ebedî kalacaklardır. Allah onlardan razı olmuş, onlar da O'ndan razı olmuşlardır. İşte onlar Allah'ın hizbi (dininin yardımcıları)dir. İyi bil ki, kurtuluşa ulaşacak olanlar, Allah'ın hizbidir."
     }
   },
-  "SURE: 59-HAŞR": {
+  {  "SURE" : " 59-HAŞR",
     "AYETLER": {
       "1": "Göklerde ve yerde olanların hepsi Allah'ı tesbih etmektedir, O üstündür, hikmet sahibidir.",
       "2": "Ehl-i kitaptan inkar edenleri, ilk sürgünleri yurtlarından çıkaran O'dur. Siz onların çıkacaklarını sanmamıştınız. Onlar da kalelerinin, kendilerini Allah'tan koruyacağını sanmışlardı. Ama Allah'ın azabı, onlara beklemedikleri yerden geliverdi. O, yüreklerine korku düşürdü; öyle ki evlerini hem kendi elleriyle, hem de müminlerin elleriyle harap ediyorlardı. Ey akıl sahipleri! İbret alın.",
@@ -5324,7 +5326,7 @@
       "24": "O, yaratan, var eden, varlıklara şekil veren Allah'tır. En güzel isimler O'nundur. Göklerde ve yerde olanlar O'nun şânını yüceltmektedirler. O, gâlib olan, her şeyi hikmeti uyarınca yapandır."
     }
   },
-  "SURE: 60-MÜMTEHİNE": {
+  {  "SURE" : " 60-MÜMTEHİNE",
     "AYETLER": {
       "1": "Ey inananlar! Benim de düşmanım, sizin de düşmanınız olan kimseleri dost edinmeyin. Onlar size gelen gerçeği inkar ettikleri, Rabbiniz Allah'a inandığınızdan dolayı Resulü ve sizi (yurdunuzdan sürüp) çıkardıkları halde siz onlara sevgi ulaştırıyorsunuz. Eğer benim yolumda savaşmak ve benim rızamı kazanmak için çıktınızsa içinizde onlara sevgi mi gizliyorsunuz? Oysa ben sizin gizlediğiniz ve açığa vurduğunuz her şeyi bilirim. Sizden kim bunu yaparsa doğru yoldan sapmış olur.",
       "2": "Şayet onlar sizi ele geçirirlerse, size düşman kesilecekler, size ellerini ve dillerini kötülükle uzatacaklardır. Zaten inkar edivermenizi istemektedirler.",
@@ -5341,7 +5343,7 @@
       "13": "Ey inananlar, Allah'ın gazab ettiği kimselerle dostluk etmeyin. Kâfirler, mezarlık halkından nasıl ümidi kesmişse, onlar da ahiretten öyle ümidi kesmişlerdi."
     }
   },
-  "SURE: 61-SAF": {
+  {  "SURE" : " 61-SAF",
     "AYETLER": {
       "1": "Göklerdekilerin ve yerdekilerin hepsi Allah'ı tesbih eder. O, üstündür, hikmet sahibidir.",
       "2": "Ey iman edenler! Yapmayacağınız şeyi niçin söylüyorsunuz?",
@@ -5359,7 +5361,7 @@
       "14": "Ey inananlar, Allah'ın yardımcıları olun. Nitekim Meryem oğlu İsa da havarilere: \"Allah'a (giden yolda) benim yardımcılarım kimdir?\" demişti. Havariler: \"Allah (yolun)un yardımcıları biziz.\" dediler. İsrail oğullarından bir zümre inandı, bir zümre inkar etti. Biz de inananları, düşmanlarına karşı destekledik, onlar üstün geldiler"
     }
   },
-  "SURE: 62-CUMU'A": {
+  {  "SURE" : " 62-CUMU'A",
     "AYETLER": {
       "1": "Göklerde ve yerde olanların hepsi padişah, mukaddes, azîz ve hakîm olan Allah'ı tesbih etmektedir.",
       "2": "O'dur ki ümmiler içinde, kendilerinden olan ve onlara Allah'ın âyetlerini okuyan, onları temizleyen, onlara kitap ve hikmeti öğreten bir Peygamber gönderdi. Oysa onlar, önceden apaçık bir sapıklık içinde idiler.",
@@ -5374,7 +5376,7 @@
       "11": "Bir ticaret ve eğlence gördükleri zaman hemen dağılıp ona gittiler ve seni ayakta bıraktılar. De ki: \"Allah'ın yanında bulunan, eğlenceden ve ticaretten de hayırlıdır. Allah, rızık verenlerin en hayırlısıdır.\""
     }
   },
-  "SURE: 63-MÜNAFİKUN": {
+  {  "SURE" : " 63-MÜNAFİKUN",
     "AYETLER": {
       "1": "Münafıklar sana geldikleri vakit: \"Şahitlik ederiz ki sen muhakkak Allah'ın elçisisin.\" derler. Senin mutlaka kendisinin elçisi olduğunu Allah bilir ve Allah münafıkların yalancı olduklarına şahitlik eder.",
       "2": "Yeminlerini kalkan yapıp (insanları) Allah'ın yolundan çevirdiler. Onların yaptıkları ne kötüdür!",
@@ -5389,7 +5391,7 @@
       "11": "Allah süresi geldiği zaman hiç bir canı ertelemez. Allah yaptıklarınızdan haberdardır."
     }
   },
-  "SURE: 64-TEĞABUN": {
+  {  "SURE" : " 64-TEĞABUN",
     "AYETLER": {
       "1": "Göklerde ve yerde ne varsa hepsi Allah'ı tesbih eder. Mülk O'nundur, hamd O'nadır. Her şeye gücü yeten O'dur.",
       "2": "Sizi O yarattı. Kiminiz kâfirdir, kiminiz mümin. Allah yaptıklarınızı görmektedir.",
@@ -5411,7 +5413,7 @@
       "18": "Görünmeyeni ve görüneni bilendir. Üstündür, hikmet sahibidir."
     }
   },
-  "SURE: 65-TALAK": {
+  {  "SURE" : " 65-TALAK",
     "AYETLER": {
       "1": "Ey Peygamber! Kadınları boşamak istediğiniz zaman onları iddetleri içinde boşayın ve iddeti de sayın. Rabbiniz Allah'tan korkun. Apaçık bir hayasızlık yapmaları hali bir yana, onları evlerinden çıkarmayın, kendileri de çıkmasınlar. Bunlar Allah'ın sınırlarıdır. Kim Allah'ın sınırlarını aşarsa, şüphesiz kendine zulmetmiş olur. Bilmezsin, olur ki Allah, bundan sonra bir durum ortaya çıkarıverir.",
       "2": "Sürelerinin sonuna vardıklarında onları güzelce tutun, yahut güzellikle onlardan ayrılın. İçinizden adalet sahibi iki kişiyi şahit tutun. Şahidliği Allah için yapın. İşte Allah'a ve son güne inanan kimseye öğütlenen budur. Kim Allah'tan korkarsa Allah ona bir çıkış yolu yaratır.",
@@ -5427,7 +5429,7 @@
       "12": "Allah O'dur ki yedi göğü ve yerden de onlar kadarını yarattı. Emir bunlar arasında iner ki Allah'ın her şeye kâdir olduğunu ve Allah'ın bilgisinin, her şeyi kuşattığını bilesiniz."
     }
   },
-  "SURE: 66-TAHRİM": {
+  {  "SURE" : " 66-TAHRİM",
     "AYETLER": {
       "1": "Ey Peygamber! Eşlerinin rızasını arayarak Allah'ın sana helâl kıldığı şeyi niçin sen kendine haram ediyorsun? Allah çok bağışlayan çok esirgeyendir.",
       "2": "Allah size yeminlerinizi çözmeyi meşrû kılmıştır. Allah sizin sahibinizdir. O bilendir, hikmetle yönetendir.",
@@ -5443,7 +5445,7 @@
       "12": "Irzını korumuş olan, İmrân kızı Meryem'i de Allah örnek gösterdi. Biz, ona ruhumuzdan üfledik ve Rabbinin sözlerini ve kitaplarını tasdik etti. O, gönülden itaat edenlerdendi."
     }
   },
-  "SURE: 67-MÜLK": {
+  {  "SURE" : " 67-MÜLK",
     "AYETLER": {
       "1": "Mutlak hükümranlık elinde bulunan Allah, yüceler yücesidir ve O'nun her şeye gücü yeter.",
       "2": "O, hanginizin daha güzel iş yapacağınızı denemek için ölümü ve hayatı yarattı. O, üstündür, bağışlayandır.",
@@ -5477,7 +5479,7 @@
       "30": "De ki: \"Baksanıza, eğer suyunuz çekilse, size kim bir akarsu getirebilir?\""
     }
   },
-  "SURE: 68-KALEM": {
+  {  "SURE" : " 68-KALEM",
     "AYETLER": {
       "1": "Nûn, Kaleme ve yazdıklarına andolsun.",
       "2": "Sen Rabbinin nimetiyle mecnun değilsin.",
@@ -5533,7 +5535,7 @@
       "52": "Halbuki o âlemler için bir öğüttür."
     }
   },
-  "SURE: 69-HAKKA": {
+  {  "SURE" : " 69-HAKKA",
     "AYETLER": {
       "1": "(Gerçekleşecek) Kıyamet!",
       "2": "Nedir, o Kıyamet?",
@@ -5589,7 +5591,7 @@
       "52": "O halde, haydi tesbih et Rabbinin yüce ismiyle."
     }
   },
-  "SURE: 70-MEARİC": {
+  {  "SURE" : " 70-MEARİC",
     "AYETLER": {
       "1": "Bir isteyen, olacak azabı istedi.",
       "2": "Kâfirler için onu savacak yok.",
@@ -5637,7 +5639,7 @@
       "44": "Gözleri düşük, kendilerini bir alçaklık saracak da saracak. İşte onlara vaad edilen gün, o gündür."
     }
   },
-  "SURE: 71-NUH": {
+  {  "SURE" : " 71-NUH",
     "AYETLER": {
       "1": "Gerçekten biz Nûh'u kavmine gönderdik, \"kavmine acı bir azap gelmezden önce onları uyar\" diye.",
       "2": "Dedi ki, \"ey kavmim! Gerçekten ben size açık bir uyarıcıyım\".",
@@ -5669,7 +5671,7 @@
       "28": "\"Ey Rabbim! Bana, babama, anama, mümin olarak evime girene ve bütün inanmış erkek ve kadınlara mağfiret buyur. Zalimlerin de sadece helakini artır.\""
     }
   },
-  "SURE: 72-CİN": {
+  {  "SURE" : " 72-CİN",
     "AYETLER": {
       "1": "Deki: Hakikat bir takım cinnin Kur'ân dinleyip de şöyle dedikleri bana vahyedildi. Şüphesiz biz, hayret verici bir Kur'ân dinledik.",
       "2": "O Kur'ân hidayete erdiriyor, biz de ona iman ettik. Rabbimize hiçbir şeyi ortak koşmayacağız.",
@@ -5701,7 +5703,7 @@
       "28": "Bilsin diye ki, onlar Rablerinin elçiliklerini yerine getirmişlerdir. Allah onlarda bulunan her şeyi kuşatmış ve her şeyi bir bir saymıştır."
     }
   },
-  "SURE: 73-MÜZZEMMİL": {
+  {  "SURE" : " 73-MÜZZEMMİL",
     "AYETLER": {
       "1": "Ey örtünen! (Peygamber)",
       "2": "Gecenin birazı hariç olmak üzere geceleyin kalk (namaz kıl).",
@@ -5725,7 +5727,7 @@
       "20": "Rabbin, senin gecenin üçte ikisinden daha azında, yarısında ve üçte birinde kalktığını, seninle beraber bulunanlardan bir topluluğun da böyle yaptığını biliyor. Gece ve gündüzü Allah takdir eder. O, sizin onu sayamayacağınızı bildi de sizi affetti. Bundan böyle Kur'ân'dan size ne kolay gelirse okuyun. Allah, içinizden hastalar, yeryüzünde gezip Allah'ın lütfunu arayan başka kimseler ve Allah yolunda savaşan daha başka insanlar olacağını bilmiştir. Onun için Kur'ân'dan kolayınıza geldiği kadar okuyun, namazı kılın, zekatı verin ve Allah'a güzel bir borç verin (Hayırlı işlere mal sarfedin). Kendiniz için gönderdiğiniz her iyiliği, Allah katında daha hayırlı ve sevapça daha büyük olarak bulacaksınız. Allah'tan bağış dileyin. Kuşkusuz Allah bağışlayandır, merhamet edendir."
     }
   },
-  "SURE: 74-MÜDDESSİR": {
+  {  "SURE" : " 74-MÜDDESSİR",
     "AYETLER": {
       "1": "Ey örtüsüne bürünen (Peygamber)!",
       "2": "Kalk artık uyar.",
@@ -5785,7 +5787,7 @@
       "56": "Bununla beraber Allah dilemedikçe onlar öğüt alamazlar. Koruyacak da O'dur, bağışlayacak da."
     }
   },
-  "SURE: 75-KIYAMET": {
+  {  "SURE" : " 75-KIYAMET",
     "AYETLER": {
       "1": "Hayır, yemin ederim o kıyamet gününe.",
       "2": "Yine hayır, yemin ederim o sürekli kendini kınayan nefse.",
@@ -5829,7 +5831,7 @@
       "40": "Peki, bunu yapanın ölüleri diriltmeye gücü yetmez mi?"
     }
   },
-  "SURE: 76-İNSAN": {
+  {  "SURE" : " 76-İNSAN",
     "AYETLER": {
       "1": "Gerçekten insan üzerine dehirden (zamandan) öyle bir müddet geldi ki o zaman o, anılmaya değer bir şey değildi.",
       "2": "Doğrusu biz insanı, imtihan etmek için karışık bir nutfeden (erkek ve kadın sularından) yarattık da onu işitici, görücü yaptık.",
@@ -5864,7 +5866,7 @@
       "31": "Allah dilediğini rahmetine sokar. Zalimlere ise, acıklı bir azap hazırlamıştır."
     }
   },
-  "SURE: 77-MÜRSELAT": {
+  {  "SURE" : " 77-MÜRSELAT",
     "AYETLER": {
       "1": "Andolsun birbiri ardınca gönderilenlere,",
       "2": "Büküp devirenlere,",
@@ -5918,7 +5920,7 @@
       "50": "Artık bundan (Kur'an'dan) sonra hangi söze inanacaklar?"
     }
   },
-  "SURE: 78-NEBE'": {
+  {  "SURE" : " 78-NEBE'",
     "AYETLER": {
       "1": "Birbirlerine neyi soruyorlar?",
       "2": "O büyük haberden (kıyametten) mi?",
@@ -5962,7 +5964,7 @@
       "40": "Biz sizi yakın bir azap ile uyardık. O gün kişi ellerinin ne takdim ettiğine bakacak ve kâfir diyecek ki: \"Ah ne olaydı, ben bir toprak olaydım.\""
     }
   },
-  "SURE: 79-NAZİ'AT": {
+  {  "SURE" : " 79-NAZİ'AT",
     "AYETLER": {
       "1": "Andolsun şiddetle çekip çıkaranlara,",
       "2": "Usulcacık çekenlere,",
@@ -6012,7 +6014,7 @@
       "46": "Onlar o kıyameti görecekleri gün sanki dünyada bir akşam veya kuşluğundan başka durmamışa dönecekler."
     }
   },
-  "SURE: 80-ABESE": {
+  {  "SURE" : " 80-ABESE",
     "AYETLER": {
       "1": "(Peygamber) Yüzünü ekşitti ve döndü.",
       "2": "Kendisine âmâ geldi, diye.",
@@ -6058,7 +6060,7 @@
       "42": "İşte onlardır kâfirler, haktan sapanlar."
     }
   },
-  "SURE: 81-TEKVİR": {
+  {  "SURE" : " 81-TEKVİR",
     "AYETLER": {
       "1": "Güneş katlanıp dürüldüğünde,",
       "2": "Yıldızlar bulandığında,",
@@ -6091,7 +6093,7 @@
       "29": "Âlemlerin Rabbi olan Allah dilemeyince, siz dileyemezsiniz."
     }
   },
-  "SURE: 82-İNFİTAR": {
+  {  "SURE" : " 82-İNFİTAR",
     "AYETLER": {
       "1": "Gök çatladığı vakit,",
       "2": "Yıldızlar döküldüğü vakit,",
@@ -6114,7 +6116,7 @@
       "19": "O gün, hiç kimsenin başkası için hiçbir şeye sahip olamadığı gündür. O gün buyruk yalnız Allah'ındır."
     }
   },
-  "SURE: 83-MUTAFFİFİN": {
+  {  "SURE" : " 83-MUTAFFİFİN",
     "AYETLER": {
       "1": "Eksik ölçüp tartanların vay haline!",
       "2": "Onlar insanlardan kendilerine bir şey aldıkları zaman tam ölçerler.",
@@ -6154,7 +6156,7 @@
       "36": "Nasıl, kâfirler yaptıklarının cezasını buldular mı?"
     }
   },
-  "SURE: 84-İNŞİKAK": {
+  {  "SURE" : " 84-İNŞİKAK",
     "AYETLER": {
       "1": "Gök yarıldığı,",
       "2": "Rabbini dinleyip kendisine yaraşır şekilde boyun eğdiği vakit,",
@@ -6183,7 +6185,7 @@
       "25": "Ancak iman edip iyi ameller işleyenler başkadır. Onlara tükenmez bir ecir vardır."
     }
   },
-  "SURE: 85-BURUC": {
+  {  "SURE" : " 85-BURUC",
     "AYETLER": {
       "1": "Burçlar sahibi gökyüzüne,",
       "2": "Vaad olunan o güne,",
@@ -6209,7 +6211,7 @@
       "22": "Levh-i Mahfuz'dadır."
     }
   },
-  "SURE: 86-TARIK": {
+  {  "SURE" : " 86-TARIK",
     "AYETLER": {
       "1": "Andolsun o göğe ve Târık'a,",
       "2": "Târık nedir, bildin mi?",
@@ -6230,7 +6232,7 @@
       "17": "Onun için sen kâfirlere mühlet ver, onlara az bir zaman tanı."
     }
   },
-  "SURE: 87-A'LA": {
+  {  "SURE" : " 87-A'LA",
     "AYETLER": {
       "1": "Rabbinin yüce adını tesbih et.",
       "2": "Yaratıp düzene koyan O'dur.",
@@ -6253,7 +6255,7 @@
       "19": "İbrahim ve Musa'nın sahifelerinde."
     }
   },
-  "SURE: 88-ĞAŞİYE": {
+  {  "SURE" : " 88-ĞAŞİYE",
     "AYETLER": {
       "1": "O her şeyi kuşatacak olan Kıyamet'in haberi sana geldi mi?",
       "2": "Yüzler var ki, o gün eğilmiş, zillete düşmüştür.",
@@ -6283,7 +6285,7 @@
       "26": "Sonra da bize hesap verecekler."
     }
   },
-  "SURE: 89-FECR": {
+  {  "SURE" : " 89-FECR",
     "AYETLER": {
       "1": "Andolsun fecre.",
       "2": "On geceye (Zilhicce ayının ilk on gecesine).",
@@ -6317,7 +6319,7 @@
       "30": "Cennetime gir."
     }
   },
-  "SURE: 90-BELED": {
+  {  "SURE" : " 90-BELED",
     "AYETLER": {
       "1": "Andolsun bu beldeye",
       "2": "Ki sen bu beldede oturmaktasın.",
@@ -6341,7 +6343,7 @@
       "20": "Onların üzerlerine bir ateş bastırılıp kapıları kapanacaktır."
     }
   },
-  "SURE: 91-ŞEMS": {
+  {  "SURE" : " 91-ŞEMS",
     "AYETLER": {
       "1": "Güneş'e ve onun parıltısına,",
       "2": "Güneş'in ardından gelen Ay'a,",
@@ -6360,7 +6362,7 @@
       "15": "Öyle ya, Allah bu işin sonundan korkacak değil ya."
     }
   },
-  "SURE: 92-LEYL": {
+  {  "SURE" : " 92-LEYL",
     "AYETLER": {
       "1": "Örttüğü zaman geceye,",
       "2": "Açıldığı zaman gündüze,",
@@ -6385,7 +6387,7 @@
       "21": "Elbette yakında kendisi de hoşnut olacaktır."
     }
   },
-  "SURE: 93-DUHA": {
+  {  "SURE" : " 93-DUHA",
     "AYETLER": {
       "1": "Andolsun kuşluk vaktine.",
       "2": "Ve sakinleştiği zaman geceye ki,",
@@ -6400,7 +6402,7 @@
       "11": "Fakat Rabbinin nimetini anlat da anlat."
     }
   },
-  "SURE: 94-İNŞİRAH": {
+  {  "SURE" : " 94-İNŞİRAH",
     "AYETLER": {
       "1": "Biz senin için (mutluluğun) göğsünü açmadık mı?",
       "2": "Senden yükünü indirmedik mi?",
@@ -6412,7 +6414,7 @@
       "8": "Ancak Rabbine yönel."
     }
   },
-  "SURE: 95-TİN": {
+  {  "SURE" : " 95-TİN",
     "AYETLER": {
       "1": "Tîn'e ve Zeytun'a,",
       "2": "Sina dağına",
@@ -6424,7 +6426,7 @@
       "8": "Allah, hakimlerin hakimi değil mi?"
     }
   },
-  "SURE: 96-ALAK": {
+  {  "SURE" : " 96-ALAK",
     "AYETLER": {
       "1": "Yaratan Rabbinin adıyla oku!",
       "2": "O, insanı bir alekadan (embriyodan) yarattı.",
@@ -6445,7 +6447,7 @@
       "15-16": "Hayır, hayır! Eğer o, bu davranışından vazgeçmezse, and olsun ki biz, onu perçeminden, o günahkâr ve yalancı perçeminden tutup cehenneme sürükleriz."
     }
   },
-  "SURE: 97-KADİR": {
+  {  "SURE" : " 97-KADİR",
     "AYETLER": {
       "1": "Biz o (Kur'ân)nu Kadir gecesinde indirdik.",
       "2": "Kadir gecesinin ne olduğunu sen nereden bileceksin?",
@@ -6454,7 +6456,7 @@
       "5": "O gece, tanyeri ağarıncaya kadar süren bir selâmettir."
     }
   },
-  "SURE: 98-BEYYİNE": {
+  {  "SURE" : " 98-BEYYİNE",
     "AYETLER": {
       "1": "Kitap ehlinden ve müşriklerden (Hakk'ı) tanımayanlar, kendilerine açık delil gelinceye kadar inkârlarından ayrılacak değillerdi.",
       "2": "(Bu delil), tertemiz sayfaları okuyan, Allah tarafından gönderilmiş bir peygamberdir.",
@@ -6466,7 +6468,7 @@
       "8": "Rableri katında onların mükâfatı, altlarından ırmaklar akan Adn cennetleridir. Orada ebedî olarak kalacaklardır. Allah onlardan razı olmuş, onlar da O'ndan razı olmuşlardır. İşte bu mükâfat, Rabbine saygı gösterene mahsustur."
     }
   },
-  "SURE: 99-ZİLZAL": {
+  {  "SURE" : " 99-ZİLZAL",
     "AYETLER": {
       "1": "Yer o yaman sarsıntı ile sarsıldığı,",
       "2": "Yer, içindeki ağırlıkları çıkarıp dışarı attığı,",
@@ -6477,7 +6479,7 @@
       "4,5": "O gün yer, Rabbinin ona vahyetmesiyle haberlerini anlatacaktır."
     }
   },
-  "SURE: 100-ADİYAT": {
+  {  "SURE" : " 100-ADİYAT",
     "AYETLER": {
       "1": "O harıl harıl (savaşa) koşanlara,",
       "2": "(Tırnaklarıyla yerden) ateş çıkaranlara,",
@@ -6492,7 +6494,7 @@
       "11": "O gün Rableri onların bütün yaptıklarından haberdardır"
     }
   },
-  "SURE: 101-KAARİ'A": {
+  {  "SURE" : " 101-KAARİ'A",
     "AYETLER": {
       "4": "O gün insanlar yayılmış pervaneler gibi olurlar.",
       "5": "Dağlar atılmış renkli yünler gibi olur.",
@@ -6503,7 +6505,7 @@
       "8,9": "Kimin tartıları hafif gelirse, onun anası da (varacağı yer, sığınacağı durağı) hâviye (uçurum)dır."
     }
   },
-  "SURE: 102-TEKASÜR": {
+  {  "SURE" : " 102-TEKASÜR",
     "AYETLER": {
       "3": "Hayır! Yakında bileceksiniz.",
       "4": "Yine hayır! Yakında bileceksiniz (hatanızı).",
@@ -6513,14 +6515,14 @@
       "5,6": "Hayır! Eğer kesin bilgi ile bilseniz, elbette cehennemi görürsünüz."
     }
   },
-  "SURE: 103-ASR": {
+  {  "SURE" : " 103-ASR",
     "AYETLER": {
       "1": "Asra yemin olsun ki,",
       "2": "İnsan mutlaka ziyandadır.",
       "3": "Ancak iman edenler, salih amel (iyi işler) işleyenler, birbirlerine hakkı tavsiye eden ve sabrı tavsiye edenler bunun dışındadır"
     }
   },
-  "SURE: 104-HÜMEZE": {
+  {  "SURE" : " 104-HÜMEZE",
     "AYETLER": {
       "3": "Malının, kendisini ebedi yaşatacağını sanır.",
       "4": "Hayır, andolsun ki, o hutame (cehennem)ye atılacaktır.",
@@ -6530,7 +6532,7 @@
       "8-9": "Cehennemlikler, dikilmiş direklere bağlı oldukları halde, o ateşin kapıları üzerlerine kapatılacaktır."
     }
   },
-  "SURE: 105-FİL": {
+  {  "SURE" : " 105-FİL",
     "AYETLER": {
       "1": "Görmedin mi Rabb'in fil sahiplerine ne yaptı?",
       "2": "Onların tuzaklarını boşa çıkarmadı mı?",
@@ -6539,7 +6541,7 @@
       "5": "Ve onları, yenilmiş ekin yaprağı gibi yaptı."
     }
   },
-  "SURE: 106-KUREYŞ": {
+  {  "SURE" : " 106-KUREYŞ",
     "AYETLER": {
       "1": "Kureyş'in ilâfı (güven ve barış andlaşmalarından faydalanmalarını sağlamak) için.",
       "2": "Kış ve yaz seferlerinde (faydalandıkları andlaşmaların) kadrini bilmiş olmaları için.",
@@ -6547,7 +6549,7 @@
       "4": "O, kendilerini açlıktan kurtararak beslemiştir ve her tehlikeye karşı onlara emniyet vermiştir."
     }
   },
-  "SURE: 107-MA'UN": {
+  {  "SURE" : " 107-MA'UN",
     "AYETLER": {
       "1": "Dini yalanlayanı gördün mü?",
       "2": "İşte o, öksüzü iter, kakar.",
@@ -6558,14 +6560,14 @@
       "7": "Ve yardımlığı sakınırlar (zekatı vermezler)."
     }
   },
-  "SURE: 108-KEVSER": {
+  {  "SURE" : " 108-KEVSER",
     "AYETLER": {
       "1": "Muhakkak biz sana Kevser'i verdik.",
       "2": "Öyleyse Rabb'in için namaz kıl ve kurban kes.",
       "3": "Muhakkak ki sonu kesik olan, sana buğz edendir."
     }
   },
-  "SURE: 109-KAFİRUN": {
+  {  "SURE" : " 109-KAFİRUN",
     "AYETLER": {
       "1": "De ki: Ey kâfirler",
       "2": "Sizin taptıklarınıza ben tapmam.",
@@ -6575,14 +6577,14 @@
       "6": "Sizin dininiz size, benim dinim banadır."
     }
   },
-  "SURE: 110-NASR": {
+  {  "SURE" : " 110-NASR",
     "AYETLER": {
       "1": "Allah'ın yardımı ve fetih geldiğinde,",
       "2": "Ve insanların dalga dalga Allah'ın dinine girdiklerini gördüğünde,",
       "3": "Rabbini öğerek tesbih et, O'ndan bağışlanmanı dile, çünkü O, tevbeleri çok kabul edendir."
     }
   },
-  "SURE: 111-TEBBET": {
+  {  "SURE" : " 111-TEBBET",
     "AYETLER": {
       "1": "Ebu Leheb'in elleri kurusun (yok olsun o), zaten yok oldu ya.",
       "2": "Ne malı ne de kazandığı onu kurtaramadı.",
@@ -6591,7 +6593,7 @@
       "5": "Boynunda da hurma lifinden bir ip olacaktır."
     }
   },
-  "SURE: 112-İHLAS": {
+  {  "SURE" : " 112-İHLAS",
     "AYETLER": {
       "1": "De ki; O Allah bir tektir.",
       "2": "Allah eksiksiz, sameddir. (Bütün varlıklar O'na muhtaç, fakat O, hiç bir şeye muhtaç değildir.)",
@@ -6599,7 +6601,8 @@
       "4": "O 'na bir denk de olmadı."
     }
   },
-  "SURE: 113-FELAK": {
+  {  
+	"SURE" : " 113-FELAK",
     "AYETLER": {
       "1": "De ki: \"Ben, ağaran sabahın Rabbine sığınırım,",
       "2": "Yarattığı şeylerin şerrinden,",
@@ -6608,7 +6611,8 @@
       "5": "Ve hased ettiği zaman hasetçinin şerrinden."
     }
   },
-  "SURE: 114-NAS": {
+  { 
+	"SURE" : " 114-NAS",
     "AYETLER": {
       "1": "De ki: Sığınırım ben insanların Rabbine,",
       "2": "İnsanların hükümdârına,",
@@ -6618,4 +6622,4 @@
       "6": "Gerek cinlerden, gerek insanlardan."
     }
   }
-}
+]
